@@ -1,10 +1,10 @@
-# Урок 5. Формы
+﻿# Урок 5. Формы
 
 **Часть:** HTML  
 **Результат:** `contact.html` с формой обратной связи.
 **Сколько примерно займёт:** 90–120 минут.
 
-## 🎯 Минимум урока
+## Минимум урока
 
 - Собрать форму с `name`, `email`, `textarea`
 - Связать `label` и `id` для каждого поля
@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 Прочитать
+## Прочитать
 
 | № | Статья на Доке |
 |---|----------------|
@@ -28,7 +28,7 @@
 
 ---
 
-## 💡 Главное
+## Главное
 
 - `label for` = `input id` — обязательная связка (доступность).
 - `placeholder` — подсказка, **не замена** label.
@@ -45,7 +45,7 @@ form>(label[for=name]{Имя}+input#name[type=text][required])+(label[for=email]
 
 Разверни и дополни `select` и `textarea`.
 
-### ❌ Плохо / ✅ Хорошо
+### Плохо / Хорошо
 
 ```html
 <input type="email" placeholder="Email">
@@ -56,7 +56,7 @@ form>(label[for=name]{Имя}+input#name[type=text][required])+(label[for=email]
 
 ---
 
-## ✍️ Практика
+## Практика
 
 1. `contact.html` — та же шапка/подвал, что на главной.
 2. Форма: имя, email, тема (select), сообщение, чекбокс, кнопка.
@@ -64,7 +64,7 @@ form>(label[for=name]{Имя}+input#name[type=text][required])+(label[for=email]
 
 ---
 
-## 📦 Сдать после урока
+## Сдать после урока
 
 - Создан `contact.html` с рабочей формой
 - У каждого поля есть `label`, связанный через `for`/`id`
@@ -73,7 +73,7 @@ form>(label[for=name]{Имя}+input#name[type=text][required])+(label[for=email]
 
 ---
 
-## 🚦 Переход к следующему уроку
+## Переход к следующему уроку
 
 Переходи к уроку 6, только если:
 
@@ -83,7 +83,7 @@ form>(label[for=name]{Имя}+input#name[type=text][required])+(label[for=email]
 
 ---
 
-## ❓ Проверь себя
+## Проверь себя
 
 1. Зачем `label`, если есть `placeholder`?
 2. Что делает `required`?
@@ -91,11 +91,12 @@ form>(label[for=name]{Имя}+input#name[type=text][required])+(label[for=email]
 
 ---
 
-## ✅ Самопроверка
+## Самопроверка
 
 - [ ] У каждого поля есть `label` с правильным `for`
 - [ ] Навигация между страницами работает
 - [ ] Таблица только для данных
 
 **Дальше:** [Урок 6](./06-практика-html.md)
+
 
