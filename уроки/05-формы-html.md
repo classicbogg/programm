@@ -2,7 +2,6 @@
 
 **Часть:** HTML  
 **Результат:** `contact.html` с формой обратной связи.
-**Сколько примерно займёт:** 90–120 минут.
 
 ## Минимум урока
 
@@ -16,12 +15,12 @@
 
 | № | Статья на Доке |
 |---|----------------|
-| 1 | [`<form>`](https://doka.guide/html/form/) |
-| 2 | [`<input>`](https://doka.guide/html/input/) |
-| 3 | [`<label>`](https://doka.guide/html/label/) |
-| 4 | [`<textarea>`](https://doka.guide/html/textarea/) |
-| 5 | [`<select>`](https://doka.guide/html/select/) |
-| 6 | [`<button>`](https://doka.guide/html/button/) |
+| 1 | [Тег `form`](https://doka.guide/html/form/) |
+| 2 | [Тег `input`](https://doka.guide/html/input/) |
+| 3 | [Тег `label`](https://doka.guide/html/label/) |
+| 4 | [Тег `textarea`](https://doka.guide/html/textarea/) |
+| 5 | [Тег `select`](https://doka.guide/html/select/) |
+| 6 | [Тег `button`](https://doka.guide/html/button/) |
 | 7 | [`required`](https://doka.guide/html/required/) |
 | 8 | [`placeholder`](https://doka.guide/html/placeholder/) |
 | 9 | [Таблицы](https://doka.guide/html/tables/) — только для данных |
@@ -64,14 +63,6 @@ form>(label[for=name]{Имя}+input#name[type=text][required])+(label[for=email]
 
 ---
 
-## Сдать после урока
-
-- Создан `contact.html` с рабочей формой
-- У каждого поля есть `label`, связанный через `for`/`id`
-- Обязательные поля помечены `required`
-- На главной добавлена таблица только для данных
-
----
 
 ## Переход к следующему уроку
 

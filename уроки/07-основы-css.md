@@ -2,7 +2,6 @@
 
 **Часть:** CSS  
 **Результат:** `css/styles.css` подключён, классы названы осмысленно.
-**Сколько примерно займёт:** 60–90 минут.
 
 ## Минимум урока
 
@@ -18,7 +17,7 @@
 |---|----------------|
 | 1 | [CSS — введение](https://doka.guide/css/) |
 | 2 | [CSS-правило](https://doka.guide/css/css-rule/) |
-| 3 | [Подключение `<link>`](https://doka.guide/css/link/) |
+| 3 | [Подключение через `link`](https://doka.guide/css/link/) |
 | 4 | [Селектор по тегу](https://doka.guide/css/tag-selector/) |
 | 5 | [Селектор по классу](https://doka.guide/css/class-selector/) |
 | 6 | [Селектор по id](https://doka.guide/css/id-selector/) |
@@ -51,7 +50,7 @@ p { color: #111; }
 | `.card` | `.red` |
 
 Правило: **имя = роль блока**, не цвет и не номер.  
-Шпаргалка: [ШПАРГАЛКА.md](../ШПАРГАЛКА.md).
+Шпаргалка: [шпаргалки/ШПАРГАЛКА-CSS.md](../шпаргалки/ШПАРГАЛКА-CSS.md).
 
 **Emmet:** в HTML `header.site-header` + Tab; в CSS `link:css` + Tab в `<head>`.
 
@@ -84,13 +83,6 @@ body {
 
 ---
 
-## Сдать после урока
-
-- Создан и подключен `my-site/css/styles.css`
-- Добавлены осмысленные классы (`site-header`, `nav`, `site-footer`)
-- Базовые стили применяются на обеих страницах
-
----
 
 ## Переход к следующему уроку
 

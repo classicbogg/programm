@@ -2,7 +2,6 @@
 
 **Часть:** HTML  
 **Результат:** страница `index.html` с правильным каркасом.
-**Сколько примерно займёт:** 40–60 минут.
 
 ## Минимум урока
 
@@ -19,12 +18,12 @@
 | № | Статья на Доке |
 |---|----------------|
 | 1 | [HTML — введение](https://doka.guide/html/) |
-| 2 | [`<!DOCTYPE>`](https://doka.guide/html/doctype/) |
-| 3 | [`<html>`](https://doka.guide/html/html/) |
-| 4 | [`<head>`](https://doka.guide/html/head/) |
-| 5 | [`<body>`](https://doka.guide/html/body/) |
-| 6 | [`<title>`](https://doka.guide/html/title/) |
-| 7 | [`<meta>`](https://doka.guide/html/meta/) |
+| 2 | [DOCTYPE](https://doka.guide/html/doctype/) |
+| 3 | [Тег `html`](https://doka.guide/html/html/) |
+| 4 | [Тег `head`](https://doka.guide/html/head/) |
+| 5 | [Тег `body`](https://doka.guide/html/body/) |
+| 6 | [Тег `title`](https://doka.guide/html/title/) |
+| 7 | [Тег `meta`](https://doka.guide/html/meta/) |
 
 ---
 
@@ -40,7 +39,7 @@
 
 ## Практика
 
-1. Открой `my-site/index.html` (из [урока 0](../starter/) или создай заново).
+1. Открой `my-site/index.html` (из [урока 0](../шаблон/) или создай заново).
 2. Если файла нет — `!` + Tab.
 3. Проверь, что есть `charset` и `viewport`.
 4. В `<body>` напиши `p{Привет, мир!}` + Tab.
@@ -48,13 +47,6 @@
 
 ---
 
-## Сдать после урока
-
-- Файл `my-site/index.html` с валидным базовым каркасом
-- Внутри есть `doctype`, `meta charset`, `meta viewport`
-- В `body` есть минимум один абзац текста
-
----
 
 ## Переход к следующему уроку
 

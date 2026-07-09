@@ -2,7 +2,6 @@
 
 **Часть:** HTML  
 **Результат:** визитка с header, main, section, footer.
-**Сколько примерно займёт:** 60–90 минут.
 
 ## Минимум урока
 
@@ -17,13 +16,13 @@
 | № | Статья на Доке |
 |---|----------------|
 | 1 | [Что такое семантика?](https://doka.guide/html/semantics/) |
-| 2 | [`<header>`](https://doka.guide/html/header/) |
-| 3 | [`<nav>`](https://doka.guide/html/nav/) |
-| 4 | [`<main>`](https://doka.guide/html/main/) |
-| 5 | [`<section>`](https://doka.guide/html/section/) |
-| 6 | [`<article>`](https://doka.guide/html/article/) |
-| 7 | [`<footer>`](https://doka.guide/html/footer/) |
-| 8 | [`<div>`](https://doka.guide/html/div/) |
+| 2 | [Тег `header`](https://doka.guide/html/header/) |
+| 3 | [Тег `nav`](https://doka.guide/html/nav/) |
+| 4 | [Тег `main`](https://doka.guide/html/main/) |
+| 5 | [Тег `section`](https://doka.guide/html/section/) |
+| 6 | [Тег `article`](https://doka.guide/html/article/) |
+| 7 | [Тег `footer`](https://doka.guide/html/footer/) |
+| 8 | [Тег `div`](https://doka.guide/html/div/) |
 | 9 | [Атрибут `class`](https://doka.guide/html/class/) |
 | 10 | [Глобальные атрибуты](https://doka.guide/html/global-attrs/) |
 
@@ -68,13 +67,6 @@ header>h1+nav>ul>li*2>a
 
 ---
 
-## Сдать после урока
-
-- В `index.html` используются `header`, `main`, `section`, `footer`
-- Навигация вынесена в `nav`
-- В структуре страницы только один `main`
-
----
 
 ## Переход к следующему уроку
 
