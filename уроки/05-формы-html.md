@@ -15,14 +15,14 @@
 
 | № | Статья на Доке |
 |---|----------------|
-| 1 | [Тег `form`](https://doka.guide/html/form/) |
-| 2 | [Тег `input`](https://doka.guide/html/input/) |
-| 3 | [Тег `label`](https://doka.guide/html/label/) |
-| 4 | [Тег `textarea`](https://doka.guide/html/textarea/) |
-| 5 | [Тег `select`](https://doka.guide/html/select/) |
-| 6 | [Тег `button`](https://doka.guide/html/button/) |
-| 7 | [`required`](https://doka.guide/html/required/) |
-| 8 | [`placeholder`](https://doka.guide/html/placeholder/) |
+| 1 | [Тег form](https://doka.guide/html/form/) |
+| 2 | [Тег input](https://doka.guide/html/input/) |
+| 3 | [Тег label](https://doka.guide/html/label/) |
+| 4 | [Тег textarea](https://doka.guide/html/textarea/) |
+| 5 | [Тег select](https://doka.guide/html/select/) |
+| 6 | [Тег button](https://doka.guide/html/button/) |
+| 7 | [Атрибут required](https://doka.guide/html/required/) |
+| 8 | [Атрибут placeholder](https://doka.guide/html/placeholder/) |
 | 9 | [Таблицы](https://doka.guide/html/tables/) — только для данных |
 
 ---

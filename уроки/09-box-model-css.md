@@ -16,12 +16,12 @@
 | № | Статья на Доке |
 |---|----------------|
 | 1 | [Блочная модель](https://doka.guide/css/box-model/) |
-| 2 | [`padding`](https://doka.guide/css/padding/) |
-| 3 | [`margin`](https://doka.guide/css/margin/) |
-| 4 | [`border`](https://doka.guide/css/border/) |
-| 5 | [`width`](https://doka.guide/css/width/) |
-| 6 | [`box-sizing`](https://doka.guide/css/box-sizing/) |
-| 7 | [`display`](https://doka.guide/css/display/) — бегло |
+| 2 | [Свойство padding](https://doka.guide/css/padding/) |
+| 3 | [Свойство margin](https://doka.guide/css/margin/) |
+| 4 | [Свойство border](https://doka.guide/css/border/) |
+| 5 | [Свойство width](https://doka.guide/css/width/) |
+| 6 | [Свойство box-sizing](https://doka.guide/css/box-sizing/) |
+| 7 | [Свойство display](https://doka.guide/css/display/) — бегло |
 
 ---
 

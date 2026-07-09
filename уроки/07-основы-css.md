@@ -17,7 +17,7 @@
 |---|----------------|
 | 1 | [CSS — введение](https://doka.guide/css/) |
 | 2 | [CSS-правило](https://doka.guide/css/css-rule/) |
-| 3 | [Подключение через `link`](https://doka.guide/css/link/) |
+| 3 | [Подключение через link](https://doka.guide/css/link/) |
 | 4 | [Селектор по тегу](https://doka.guide/css/tag-selector/) |
 | 5 | [Селектор по классу](https://doka.guide/css/class-selector/) |
 | 6 | [Селектор по id](https://doka.guide/css/id-selector/) |

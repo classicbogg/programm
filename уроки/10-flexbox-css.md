@@ -16,12 +16,12 @@
 | № | Статья на Доке |
 |---|----------------|
 | 1 | [**Гайд по Flexbox**](https://doka.guide/css/flexbox-guide/) |
-| 2 | [`flex-direction`](https://doka.guide/css/flex-direction/) |
-| 3 | [`justify-content`](https://doka.guide/css/justify-content/) |
-| 4 | [`align-items`](https://doka.guide/css/align-items/) |
-| 5 | [`gap`](https://doka.guide/css/gap/) |
-| 6 | [`flex-wrap`](https://doka.guide/css/flex-wrap/) |
-| 7 | [`position`](https://doka.guide/css/position/) — разделы про `relative` и `absolute` |
+| 2 | [Свойство flex-direction](https://doka.guide/css/flex-direction/) |
+| 3 | [Свойство justify-content](https://doka.guide/css/justify-content/) |
+| 4 | [Свойство align-items](https://doka.guide/css/align-items/) |
+| 5 | [Свойство gap](https://doka.guide/css/gap/) |
+| 6 | [Свойство flex-wrap](https://doka.guide/css/flex-wrap/) |
+| 7 | [Свойство position](https://doka.guide/css/position/) — разделы про `relative` и `absolute` |
 
 ---
 

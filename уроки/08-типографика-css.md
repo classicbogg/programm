@@ -15,13 +15,13 @@
 
 | № | Статья на Доке |
 |---|----------------|
-| 1 | [`color`](https://doka.guide/css/color/) |
-| 2 | [`background-color`](https://doka.guide/css/background-color/) |
-| 3 | [`font-family`](https://doka.guide/css/font-family/) |
-| 4 | [`font-size`](https://doka.guide/css/font-size/) |
-| 5 | [`line-height`](https://doka.guide/css/line-height/) |
-| 6 | [`:hover`](https://doka.guide/css/hover/) |
-| 7 | [`:focus`](https://doka.guide/css/focus/) |
+| 1 | [Свойство color](https://doka.guide/css/color/) |
+| 2 | [Свойство background-color](https://doka.guide/css/background-color/) |
+| 3 | [Свойство font-family](https://doka.guide/css/font-family/) |
+| 4 | [Свойство font-size](https://doka.guide/css/font-size/) |
+| 5 | [Свойство line-height](https://doka.guide/css/line-height/) |
+| 6 | [Псевдокласс :hover](https://doka.guide/css/hover/) |
+| 7 | [Псевдокласс :focus](https://doka.guide/css/focus/) |
 
 ---
 

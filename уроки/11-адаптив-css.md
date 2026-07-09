@@ -15,10 +15,10 @@
 
 | № | Статья на Доке |
 |---|----------------|
-| 1 | [`rem` и `em`](https://doka.guide/css/rem-em/) |
-| 2 | [`@media`](https://doka.guide/css/media/) |
+| 1 | [Единицы rem и em](https://doka.guide/css/rem-em/) |
+| 2 | [Правило @media](https://doka.guide/css/media/) |
 | 3 | [CSS-переменные](https://doka.guide/css/custom-properties/) |
-| 4 | [Тег `meta` для viewport](https://doka.guide/html/meta/) — проверь в head |
+| 4 | [Тег meta для viewport](https://doka.guide/html/meta/) — проверь в head |
 
 ---
 
