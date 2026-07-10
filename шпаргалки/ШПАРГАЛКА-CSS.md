@@ -1,4 +1,4 @@
-﻿# CSS шпаргалка для начинающих (расширенная)
+# CSS шпаргалка для начинающих (расширенная)
 
 Эта шпаргалка помогает быстро вспомнить синтаксис и основные свойства.  
 Подробный справочник: [Doka CSS](https://doka.guide/css/).
@@ -325,20 +325,17 @@ img {
 
 ---
 
-## 19) Emmet для CSS (ускорение)
+## 19) CSS — пиши свойства вручную
 
-| Сокращение | Результат |
-|------------|-----------|
-| `df` | `display: flex;` |
-| `jcsb` | `justify-content: space-between;` |
-| `jcc` | `justify-content: center;` |
-| `aic` | `align-items: center;` |
-| `fdc` | `flex-direction: column;` |
-| `fww` | `flex-wrap: wrap;` |
-| `g20` | `gap: 20px;` |
-| `m0a` | `margin: 0 auto;` |
-| `w100p` | `width: 100%;` |
-| `bsbb` | `box-sizing: border-box;` |
+В курсе CSS-свойства записываем обычным текстом, без Emmet-сокращений:
+
+```css
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 0 auto;
+box-sizing: border-box;
+```
 
 ---
 

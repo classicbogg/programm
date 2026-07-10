@@ -1,4 +1,4 @@
-﻿# Урок 10. CSS: Flexbox и position
+# Урок 10. CSS: Flexbox и position
 
 **Часть:** CSS  
 **Результат:** меню, hero, карточки; базовый `position` для бейджа.
@@ -29,7 +29,11 @@
 
 - `display: flex` на **родителе**.
 - `justify-content` — главная ось; `align-items` — поперечная.
-- **Emmet CSS:** `df` + Tab, `jcsb` + Tab, `aic` + Tab, `g20` + Tab.
+- **CSS:** свойства Flexbox пиши обычным текстом (`display: flex`, `justify-content`, `align-items`, `gap`).
+
+**Важно различать:**
+- **Flexbox** — это контейнер через `display: flex` на родителе.
+- **`flex: 1 1 280px`** — отдельное свойство у карточки; поначалу можно просто копировать из примера.
 
 ```css
 .header-inner {
@@ -68,23 +72,23 @@
 
 Родитель с `relative`, элемент с `absolute` — относительно родителя.
 
-**Emmet HTML:** `article.card>.card__badge{Новое}+h3+p`
+**Emmet HTML:** вставь `article` → Tab, внутри `h3` → Tab и `p` → Tab; для бейджа — `div` → Tab внутри карточки.
 
 ---
 
 ## Практика
 
-1. Flex-шапка: логотип слева, меню справа.
-2. Hero по центру (`flex-direction: column`, `align-items: center`).
-3. Три карточки в `section`.
-4. Бейдж на одной карточке через `position`.
+Все задания — в файле [урок-10-практика.md](../практика/урок-10-практика.md).
+Выполняй по порядку: **База → Средний → Продвинутый**.
 
-### По желанию
 
-[Flexbox Froggy](https://flexboxfroggy.com/#ru)
+## Типичные ошибки урока
+
+1. `display: flex` на карточке, а не на родителе — flex работает только на контейнере.
+2. Карточки не переносятся — добавь `flex-wrap: wrap` и `gap`.
+3. Бейдж уехал не туда — у карточки должен быть `position: relative`, у бейджа `absolute`.
 
 ---
-
 
 ## Переход к следующему уроку
 
